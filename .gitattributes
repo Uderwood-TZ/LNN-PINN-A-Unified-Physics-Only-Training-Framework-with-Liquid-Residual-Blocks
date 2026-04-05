@@ -1,0 +1,10 @@
+Anisotropic Poisson–Beam Equation (APBE)/** filter=lfs diff=lfs merge=lfs -text
+Appendix/** filter=lfs diff=lfs merge=lfs -text
+Figs/** filter=lfs diff=lfs merge=lfs -text
+Laplace2D_UnitSquare_DirTopBot_NeuLeftRight/** filter=lfs diff=lfs merge=lfs -text
+lr_sweep_plots/** filter=lfs diff=lfs merge=lfs -text
+RF1/** filter=lfs diff=lfs merge=lfs -text
+RF2/** filter=lfs diff=lfs merge=lfs -text
+Si/** filter=lfs diff=lfs merge=lfs -text
+_F2_style_summary_outputs_v18/** filter=lfs diff=lfs merge=lfs -text
+（Drift–Decay）/** filter=lfs diff=lfs merge=lfs -text
