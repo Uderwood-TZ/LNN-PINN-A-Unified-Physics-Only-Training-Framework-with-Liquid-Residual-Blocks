@@ -1,0 +1,24 @@
+LNN-PINN run summary
+===================
+method_tag: LNN-PINN
+problem: u_xx - u_yyyy = (2 - x^2) exp(-y) on (0,1)^2
+exact_solution: u(x,y) = x^2 exp(-y)
+network_linear_topology: 2 -> 64 -> 64 -> 64 -> 64 -> 1
+liquid_operator: residual liquid cell after each hidden tanh, width preserved
+epochs: 5000
+learning_rate: 3.000000000000e-04
+interior_points: 1000
+boundary_points_each: 1000
+grid_density: 200
+seed: 888888
+device: cuda
+training_time_seconds: 1799.515587
+
+metrics
+MSE: 3.056980801830e-07
+RMSE: 5.528997017389e-04
+MAE: 4.649613983929e-04
+L2_absolute_error: 1.105799376965e-01
+L2_relative_error: 1.871757092886e-03
+Max_absolute_error: 2.008020877838e-03
+training_time_seconds: 1.799515586700e+03

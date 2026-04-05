@@ -1,0 +1,10 @@
+field_name: uy
+method_tag: LNN-PINN
+learning_rate: 3.000000000000e-04
+MSE: 3.056980801830e-07
+RMSE: 5.528997017389e-04
+MAE: 4.649613983929e-04
+L2_absolute_error: 1.105799376965e-01
+L2_relative_error: 1.871757092886e-03
+Max_absolute_error: 2.008020877838e-03
+training_time_seconds: 1.799515586700e+03

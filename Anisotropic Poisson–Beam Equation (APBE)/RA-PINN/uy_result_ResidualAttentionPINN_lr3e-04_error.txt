@@ -1,0 +1,7 @@
+Method: ResidualAttentionPINN
+Field: uy
+MSE: 1.74101842e-05
+RMSE: 4.17255129e-03
+MAE: 3.34150041e-03
+RelativeL2: 1.41040934e-02
+MaxAbsoluteError: 1.47247314e-02

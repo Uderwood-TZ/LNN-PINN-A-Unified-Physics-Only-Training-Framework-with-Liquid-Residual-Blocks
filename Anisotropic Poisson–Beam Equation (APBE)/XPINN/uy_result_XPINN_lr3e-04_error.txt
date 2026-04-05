@@ -1,0 +1,7 @@
+Method: XPINN
+Field: uy
+MSE: 1.25051923e-02
+RMSE: 1.11826617e-01
+MAE: 5.89160584e-02
+RelativeL2: 3.77997190e-01
+MaxAbsoluteError: 5.47781646e-01
